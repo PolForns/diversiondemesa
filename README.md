@@ -1,2 +1,2 @@
 # diversiondemesa
-<a href="https://diversiondemesa.com">Tienda online de Juegos de Mesa</a>
+<a href="https://diversiondemesa.com" rel="dofollow">Tienda online de Juegos de Mesa</a>
